@@ -1,4 +1,4 @@
 #Added warrior.cpp and warrior.h
-void MainFunction()
+void Main()
 {
 }
